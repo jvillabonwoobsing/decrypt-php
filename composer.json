@@ -1,0 +1,5 @@
+{
+    "require": {
+        "illuminate/encryption": "^8.40"
+    }
+}

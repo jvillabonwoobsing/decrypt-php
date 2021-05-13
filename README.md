@@ -1,0 +1,1 @@
+Para la instalación del paquete ejecutar composer install
